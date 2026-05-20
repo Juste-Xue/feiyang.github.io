@@ -24,7 +24,7 @@ emerged as a new exit mechanism — China Huarong's purchase of 40.56% of
 Everbright Bank's CBs in 2023 being a striking case study in creative capital 
 structure management.
 
-[📄 View Full Report (Chinese)](/files/convertible-bond-report.pdf)
+[📄 View Full Report (Chinese)](/feiyang.github.io/files/convertible-bond-report.pdf)
 
 ---
 
@@ -48,7 +48,7 @@ What I found most satisfying was the deliberate choice to submit Version 42
 (score: 0.655) over a higher-scoring overfit version, prioritizing robustness 
 over leaderboard rank.
 
-[📄 View Paper](/files/kaggle-sp500.pdf)
+[📄 View Paper](/feiyang.github.io/files/kaggle-sp500.pdf)
 
 ---
 
@@ -75,4 +75,4 @@ We also identified three post-acquisition risks: cultural integration friction
 (Whole Foods employees unionized in 2018), brand dilution from Amazon's direct 
 price cuts, and consumer resistance to palm-print payment technology rollout.
 
-[📄 View Slides](/files/amazon-dcf.pdf)
+[📄 View Slides](/feiyang.github.io/files/amazon-dcf.pdf)
